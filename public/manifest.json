@@ -1,0 +1,13 @@
+{
+  "short_name": "Heatmap Generator",
+  "name": "Heatmap Generator",
+  "icons": [
+    {
+      "src": "./favicon.png",
+      "type": "image/png",
+      "sizes": "100x100"
+    }
+  ],
+  "theme_color": "#FFAE00",
+  "background_color": "#ffffff"
+}
